@@ -1,4 +1,4 @@
-# What change? <!-- Short summary of the change -->
+# What changed? <!-- Short summary of the change -->
 
 # Why? <!-- Reasons, linked issue -->
 

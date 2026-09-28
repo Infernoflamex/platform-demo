@@ -1,14 +1,14 @@
 # Default owner
-* @TealOrchid
+* @TealOrchid @adawnium @blanche699 @smashanto
 
 # Platform configuration
-/.github/ @TealOrchid
+/.github/ @TealOrchid @adawnium @blanche699 @smashanto
 
 # Application code
-/src/ @adawnium
+/src/ @TealOrchid @adawnium @blanche699 @smashanto
 
 # Tests
-/test/ @blanche699
+/test/ @TealOrchid @adawnium @blanche699 @smashanto
 
 # Deployment configuration
-/deploy/ @smashanto
+/deploy/ @TealOrchid @adawnium @blanche699 @smashanto

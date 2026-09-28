@@ -1,14 +1,15 @@
-# Default owner
-* @infernoflamex
+
+* @infernoflamex @amaviviekouvo-cyber
 
 # Platform configuration
-/.github/ @infernoflamex
+/.github/ @infernoflamex @amaviviekouvo-cyber
 
 # Application code
-/src/ @infernoflamex
+/src/ @infernoflamex @amaviviekouvo-cyber
 
 # Tests
-/test/ @infernoflamex
+/test/ @infernoflamex @amaviviekouvo-cyber
 
 # Deployment configuration
-/deploy/ @infernoflamex
+/deploy/ @infernoflamex @amaviviekouvo-cyber
+

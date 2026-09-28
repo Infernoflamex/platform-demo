@@ -3,7 +3,6 @@ FROM node:20-alpine
 WORKDIR /app
 ENV NODE_ENV=production PORT=8080
 
-# No runtime dependencies yet; copy package.json first so a future `npm ci` layer caches well
 COPY package.json ./
 COPY src ./src
 

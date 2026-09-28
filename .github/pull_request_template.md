@@ -1,6 +1,6 @@
 # What change? <!-- Short summary of the change -->
 
-# Why? <!-- Motivation, linked issue -->
+# Why? <!-- Reasons, linked issue -->
 
 # Testing <!-- How was this tested? Commands run, results -->
 

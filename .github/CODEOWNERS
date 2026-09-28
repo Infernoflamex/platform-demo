@@ -1,14 +1,13 @@
 # Default owner
-* @infernoflamex @amaviviekouvo-cyber
+* @infernoflamex @amaviviekouvo-cyber @ben7132 @namelessbell92-ai 
 
 # Platform configuration
-/.github/ @infernoflamex @amaviviekouvo-cyber
-
+/.github/ @infernoflamex @amaviviekouvo-cyber @ben7132 @namelessbell92-ai 
 # Application code
-/src/ @infernoflamex @amaviviekouvo-cyber
+/src/ @infernoflamex @amaviviekouvo-cyber @ben7132 @namelessbell92-ai 
 
 # Tests
-/test/ @infernoflamex @amaviviekouvo-cyber
+/test/ @infernoflamex @amaviviekouvo-cyber @ben7132 @namelessbell92-ai 
 
 # Deployment configuration
-/deploy/ @infernoflamex @amaviviekouvo-cyber
+/deploy/ @infernoflamex @amaviviekouvo-cyber @ben7132 @namelessbell92-ai 

@@ -1,14 +1,14 @@
 # Default owner
-* @GitFabien
+* @infernoflamex @amaviviekouvo-cyber
 
 # Platform configuration
-/.github/ @GitFabien
+/.github/ @infernoflamex @amaviviekouvo-cyber
 
 # Application code
-/src/ @GitFabien
+/src/ @infernoflamex @amaviviekouvo-cyber
 
 # Tests
-/test/ @GitFabien
+/test/ @infernoflamex @amaviviekouvo-cyber
 
 # Deployment configuration
-/deploy/ @GitFabien
+/deploy/ @infernoflamex @amaviviekouvo-cyber

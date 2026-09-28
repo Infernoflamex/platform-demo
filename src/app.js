@@ -30,7 +30,7 @@ const server = http.createServer((req, res) => {
   res.end(JSON.stringify({ error: "not found" }));
 });
 if (require.main === module) {
-  server.listen(PORT, () => console.log(`${APP_NAME} listening on ${PORT}.`));
+  server.listen(PORT, () => console.log(`${APP_NAME} listening on ${PORT} .`));
 }
 
 module.exports = { server };
